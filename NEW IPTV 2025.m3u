@@ -1,0 +1,219 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr"tvg-logo="https://picserve.netplus.ch/channels/tf1.png"group-title="📺TNT",TF1
+http://185.178.185.253:9981/stream/channelid/243503725?ticket=1DB690640E7180302DAA566726612D253C81130D&profile=pass
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr"tvg-logo="https://picserve.netplus.ch/channels/hd1.png"group-title="📺TNT",TF1 Séries Films
+http://185.178.185.253:9981/stream/channelid/1057039882?ticket=5CA3ED9C23017578E973F56B066111E64C5D0B61&profile=pass
+#EXTINF:-1 tvg-id="M6.fr"tvg-logo="https://picserve.netplus.ch/channels/m6.png"group-title="📺TNT",M6
+http://185.178.185.253:9981/stream/channelid/1777888264?ticket=49B070E1B1C1C0D31070C9DE8D866F0429C2BB47&profile=pass
+#EXTINF:-1 tvg-id="France2.fr"tvg-logo="https://picserve.netplus.ch/channels/france2hd.png"group-title="📺TNT",France 2
+http://185.178.185.253:9981/stream/channelid/1434648084?ticket=A0137660B54D1EB6DDC490DECBEC2DB49A1F74D9&profile=pass
+#EXTINF:-1 tvg-id="France3.fr"tvg-logo="https://picserve.netplus.ch/channels/france3hd.png"group-title="📺TNT",France 3
+http://185.178.185.253:9981/stream/channelid/1131880134?ticket=5DF2CF7214440D8DB2D553662A728FB34C8E5C0E&profile=pass
+#EXTINF:-1 tvg-id="France4.fr"tvg-logo="https://picserve.netplus.ch/channels/france4hd.png"group-title="📺TNT",France 4
+http://185.178.185.253:9981/stream/channelid/2083210463?ticket=341A1A6F8B04C15502935CA625170079DB960A48&profile=pass
+#EXTINF:-1 tvg-id="France5.fr"tvg-logo="https://picserve.netplus.ch/channels/france5hd.png"group-title="📺TNT",France 5
+http://185.178.185.253:9981/stream/channelid/1572235992?ticket=5D5A0B80C45C2ACBD0D7C48C9D4992E34E94CF3C&profile=pass
+#EXTINF:-1 tvg-id="W9.fr"tvg-logo="https://picserve.netplus.ch/channels/w9.png"group-title="📺TNT",W9
+http://185.178.185.253:9981/stream/channelid/289428612?ticket=FF5A9A96D2D27D3E3859E4466498BDCC4B76C471&profile=pass
+#EXTINF:-1 tvg-id="TMC.fr"tvg-logo="https://picserve.netplus.ch/channels/tmc.png"group-title="📺TNT",TMC
+http://185.178.185.253:9981/stream/channelid/111009583?ticket=76283D0FE522BADF978F40D2F85EEDD0C12463A0&profile=pass
+#EXTINF:-1 tvg-id="NT1.fr"tvg-logo="https://picserve.netplus.ch/channels/nt1.png"group-title="📺TNT",TFX
+http://185.178.185.253:9981/stream/channelid/1293624835?ticket=372EC02C0F806104F816C32BA5A05AD760FC8FD1&profile=pass
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",13EME RUE HD
+http://45.90.106.7:9790/play/NrQv529O6@U7J
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ACTION HD
+http://45.90.106.7:9790/play/NzW537i9@U6MT
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RTL9 HD @50fps
+http://45.90.106.7:8781/play/WPs28G2@Zn2U/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AFTERFOOT TV HD
+http://45.90.106.7:9790/play/GbZ419I6@Hn3F
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ANGERS TV HD
+http://45.90.106.7:9790/play/QMoR851F8@S7A
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ANIMAUX HD
+http://45.90.106.7:9790/play/UbS5198F1@R3V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AS TV HD
+http://45.90.106.7:9790/play/BEZ749K3V@F4S
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ASTRO CENTER TV
+http://45.90.106.7:9790/play/JrQv1079F5@E6Q
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AUTOPLUS TV HD
+http://45.90.106.7:9790/play/CzG2837U9@T1V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BET HD
+http://45.90.106.7:9790/play/KdW8297O2@Y6B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BIP TV HD
+http://45.90.106.7:9790/play/WPh2076D6@E8B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BOOMERANG HD
+http://45.90.106.7:9790/play/BzW5096K3@L7V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CANAL 32 HD
+http://45.90.106.7:9790/play/FwA1828J7@S5H
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CANAL J HD
+http://45.90.106.7:9790/play/BfQm2084L6@U4N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CARTOON NETWORK HD
+http://45.90.106.7:9790/play/VrQl2079K0@Y5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CARTOONITO HD
+http://45.90.106.7:9790/play/TqK5084L3@J4B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CHERIE 25 HD
+http://45.90.106.7:9790/play/SkR4180N7@T6B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CHEVAL TV HD
+http://45.90.106.7:9790/play/SPt9328T5@R4N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CLUBBING TV HD 50@fps
+http://45.90.106.7:9790/play/HtZK527P9@S7J
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CRIME DISTRICT HD
+http://45.90.106.7:9790/play/GsB843P9@Z7N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DISCOVERY HD @50fps
+http://45.90.106.7:8781/play/TdBm8140P6@E4N/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DISCOVERY INVESTIGATION HD 50@fps
+http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DREAMWORKS HD
+http://45.90.106.7:9790/play/GrQm527N6@S7B3P
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",EUROCHANNEL HD
+http://45.90.106.7:9790/play/FsC4281J7@Z8B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",FESTIVAL UHD
+http://45.90.106.7:9790/play/XrZV853U7@E7B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",FRANCE 3 NOA HD
+http://45.90.106.7:9790/play/SLT749U2@E8R
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GAME ONE HD
+http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",J-ONE HD @50fps
+http://45.90.106.7:8781/play/PeQp951n3@T5B/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MANGAS HD
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GONG HD
+http://45.90.106.7:9790/play/EvS759O6@U5J
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GULLI HD 50@fps
+http://45.90.106.7:9790/play/CYeA419K6@T8B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",LCI HD
+http://45.90.106.7:9790/play/GqX2079K3@E7J
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",LUXE TV HD
+http://45.90.106.7:9790/play/GCn7519K3@S7H
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",M6 HD 50@fps
+http://45.90.106.7:9790/play/EcW4192K8@T6V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",M6 MUSIC HD
+http://45.90.106.7:9790/play/GqLu6281K5@T2N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MAISON & TRAVAUX TV HD
+http://45.90.106.7:9790/play/KtS0873G6@Z8S
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MANDARIN TV HD
+http://45.90.106.7:9790/play/SOrp2073B@T8Z
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MARMITON TV HD
+http://45.90.106.7:9790/play/VeAC527L2@Q4N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MAURIENNE TV HD
+http://45.90.106.7:9790/play/QhT5970V6@B5X
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MTV FRANCE HD 50@fps
+http://45.90.106.7:9790/play/SUn4207H6@T5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MTV HITS HD
+http://45.90.106.7:9790/play/QmU5097K3@B4X
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN NATURE HD
+http://45.90.106.7:9790/play/XRb5768G2@F4Q
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN TV HD
+http://45.90.106.7:9790/play/CeA4809H7@T5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON 4 TEEN HD
+http://45.90.106.7:9790/play/CzQL529P7@E4V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON HD
+http://45.90.106.7:9790/play/FwZ4209O4@U4V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON JUNIOR HD
+http://45.90.106.7:9790/play/TcQd428P5@Y7M
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NOVO 19 HD
+http://45.90.106.7:9790/play/STQ1972J3@Q2K
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARIS PREMIERE HD 50@fps
+http://45.90.106.7:9790/play/GnRQ108h6@Z2R
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RACING GALOP HD
+http://45.90.106.7:9790/play/XZJ5294S2@T7K
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RFM TV HD
+http://45.90.106.7:9790/play/DQn207O6@T2B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SQOOL TV HD
+http://45.90.106.7:9790/play/ANT7491D6@S4C
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SYFY HD
+http://45.90.106.7:9790/play/BsXA5294N2@R1E
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TAHITI NUI HD
+http://45.90.106.7:9790/play/FTQ7192P5@R4N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TEVA HD 50@fps
+http://45.90.106.7:9790/play/YqXm207P5@V2C
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TIJI HD
+http://45.90.106.7:9790/play/EcQ2079K2@T2X
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TL7 SAINT-ÉTIENNE HD
+http://45.90.106.7:9790/play/XqR7519i8@E4G
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TLC HD
+http://45.90.106.7:9790/play/NUeS527J7@E8U
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TOP SANTÉ TV HD
+http://45.90.106.7:9790/play/DvZ426O9@A1B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TOUTE L'HISTOIRE HD
+http://45.90.106.7:9790/play/ZvXU507K6@E4B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TRACE CARRIBEAN HD
+http://45.90.106.7:9790/play/CNT792L3i0@T1F
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TRACE URBAN HD
+http://45.90.106.7:9790/play/JtS1098K5@T4V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TREK HD
+http://45.90.106.7:9790/play/WRG4190J5@F2N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV BREIZH HD 50@fps
+http://45.90.106.7:9790/play/STdW1086L2@E1N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV PITCHOUN HD
+http://45.90.106.7:9790/play/VUTs207J6@Q8J
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV TOURS - VAL DE LOIRE HD
+http://45.90.106.7:9790/play/CUZ419H2T@V5H
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV7 BORDEAUX HD
+http://45.90.106.7:9790/play/CnYr420P9@T8B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVMONACO HD
+http://45.90.106.7:9790/play/UtQj7430P9@T5C
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVPI HD
+http://45.90.106.7:9790/play/WnTZ207O6@Q2N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVR HD
+http://45.90.106.7:9790/play/FbZ5249M8@A5V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉBÉO HD
+http://45.90.106.7:9790/play/BtSC428Y0@Z5S
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉBÉSUD HD
+http://45.90.106.7:9790/play/JrQM834K2@C5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉLÉ GRENOBLE HD
+http://45.90.106.7:9790/play/JTZ4208P6@R5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉLÉ SUD HD
+http://45.90.106.7:9790/play/FKb4281J6@E8S
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",VIA MATÉLÉ HD
+http://45.90.106.7:9790/play/DUrZ527K6@Q2B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",WÉO HD
+http://45.90.106.7:9790/play/CZB7519K6@R4N
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",WÉO PICARDIE HD
+http://45.90.106.7:9790/play/QLu5271J6@G5B
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ZOUK TV HD
+http://45.90.106.7:9790/play/FzW7519i2@T4V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",i24 NEWS HD
+http://45.90.106.7:9790/play/ExQ207N3b@Y2V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ÉMOTION HD
+http://45.90.106.7:9790/play/NtR4273L5@R8V
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MCM HD
+http://45.90.106.7:8781/play/UeQ517m3@H8G/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MCM TOP
+http://45.90.106.7:8781/play/UeQ517K6@G6V/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MELODY HD
+http://45.90.106.7:8781/play/TqPn4197H3@R5X/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MEZZO LIVE HD
+http://45.90.106.7:8781/play/UtS5173K9@Y8K/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MUSEUM HD 50fps
+http://45.90.106.7:8781/play/JuY3@Hq0P7L/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN TV HD
+http://45.90.106.7:8781/play/QmU843O9@Y5G/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NATIONAL GEO HD
+http://45.90.106.7:8781/play/ZvQp8048J6@R5C/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NATIONAL GEO WILD HD
+http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NAUTICAL CHANNEL HD
+http://45.90.106.7:8781/play/BQl419P5@Yz5M/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON+1 HD @50fps
+http://45.90.106.7:8781/play/XqY842iI9@H6kM/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NRJ HITS HD @50fps
+http://45.90.106.7:8781/play/NrQm5179J2@U5B/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARAMOUNT CHANNEL HD 50fps
+http://45.90.106.7:8781/play/PtBcQ7430K2@TnQ41V/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARAMOUNT DÉCALÉ HD
+http://45.90.106.7:8781/play/TdQK517M3@v8U/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PIWI+ HD
+http://45.90.106.7:8781/play/Bzx5186H4@d9T/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",POLAR+ HD 50@fps
+http://45.90.106.7:8781/play/WkTS839U@T1Z/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PUISSANCE TÉLÉVISION HD
+http://45.90.106.7:8781/play/RqNT742019U3@GNt45V/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RMC DECOUVERTES HD @50fps
+http://45.90.106.7:8781/play/JpZ4518H6@S5N/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RMC STORY HD @50fps
+http://45.90.106.7:8781/play/ItQm517K6@F5B/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SEASON HD
+http://45.90.106.7:8781/play/VpT8254i3@H5S/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",T18 HD
+http://45.90.106.7:8781/play/HU6294K3@E5V/index.m3u8
