@@ -1,24 +1,30 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr"tvg-logo="https://picserve.netplus.ch/channels/tf1.png"group-title="📺TNT",TF1
-http://185.178.185.253:9981/stream/channelid/243503725?ticket=1DB690640E7180302DAA566726612D253C81130D&profile=pass
+http://45.90.106.7:8781/play/WkY8429P5@U5M/index.m3u8
 #EXTINF:-1 tvg-id="TF1SeriesFilms.fr"tvg-logo="https://picserve.netplus.ch/channels/hd1.png"group-title="📺TNT",TF1 Séries Films
-http://185.178.185.253:9981/stream/channelid/1057039882?ticket=5CA3ED9C23017578E973F56B066111E64C5D0B61&profile=pass
+http://45.90.106.7:8781/play/GcA7491K6@U5Q/index.m3u8
 #EXTINF:-1 tvg-id="M6.fr"tvg-logo="https://picserve.netplus.ch/channels/m6.png"group-title="📺TNT",M6
-http://185.178.185.253:9981/stream/channelid/1777888264?ticket=49B070E1B1C1C0D31070C9DE8D866F0429C2BB47&profile=pass
-#EXTINF:-1 tvg-id="France2.fr"tvg-logo="https://picserve.netplus.ch/channels/france2hd.png"group-title="📺TNT",France 2
-http://185.178.185.253:9981/stream/channelid/1434648084?ticket=A0137660B54D1EB6DDC490DECBEC2DB49A1F74D9&profile=pass
-#EXTINF:-1 tvg-id="France3.fr"tvg-logo="https://picserve.netplus.ch/channels/france3hd.png"group-title="📺TNT",France 3
-http://185.178.185.253:9981/stream/channelid/1131880134?ticket=5DF2CF7214440D8DB2D553662A728FB34C8E5C0E&profile=pass
-#EXTINF:-1 tvg-id="France4.fr"tvg-logo="https://picserve.netplus.ch/channels/france4hd.png"group-title="📺TNT",France 4
-http://185.178.185.253:9981/stream/channelid/2083210463?ticket=341A1A6F8B04C15502935CA625170079DB960A48&profile=pass
-#EXTINF:-1 tvg-id="France5.fr"tvg-logo="https://picserve.netplus.ch/channels/france5hd.png"group-title="📺TNT",France 5
-http://185.178.185.253:9981/stream/channelid/1572235992?ticket=5D5A0B80C45C2ACBD0D7C48C9D4992E34E94CF3C&profile=pass
+http://45.90.106.7:9790/play/EcW4192K8@T6V
+#EXTINF:-1 group-title="📺ASTRA",E! ENTERTAINMENT HD
+http://45.90.106.7:8781/play/DQm842P2@E5J/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE 2 HD @50fps
+http://45.90.106.7:8781/play/TdWm527L9@Y5F/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE 24 HD
+http://45.90.106.7:8781/play/IySh5176K8@Y2N/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE 3 HD @50fps
+http://45.90.106.7:8781/play/NyEQ218L6@U5B/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE 4 HD @50fps
+http://45.90.106.7:8781/play/GrQm517L3@b8Z/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE 5 HD @50fps
+http://45.90.106.7:8781/play/GzQ5176b2@T6B/index.m3u8
+#EXTINF:-1 group-title="📺ASTRA",FRANCE INFO HD @50fps
+http://45.90.106.7:8781/play/U5H327G6@R5L/index.m3u8
 #EXTINF:-1 tvg-id="W9.fr"tvg-logo="https://picserve.netplus.ch/channels/w9.png"group-title="📺TNT",W9
-http://185.178.185.253:9981/stream/channelid/289428612?ticket=FF5A9A96D2D27D3E3859E4466498BDCC4B76C471&profile=pass
+http://151.80.18.177:86/W9_HD/index.m3u8
 #EXTINF:-1 tvg-id="TMC.fr"tvg-logo="https://picserve.netplus.ch/channels/tmc.png"group-title="📺TNT",TMC
-http://185.178.185.253:9981/stream/channelid/111009583?ticket=76283D0FE522BADF978F40D2F85EEDD0C12463A0&profile=pass
+http://45.90.106.7:8781/play/LrQ5284K6@G5v/index.m3u8
 #EXTINF:-1 tvg-id="NT1.fr"tvg-logo="https://picserve.netplus.ch/channels/nt1.png"group-title="📺TNT",TFX
-http://185.178.185.253:9981/stream/channelid/1293624835?ticket=372EC02C0F806104F816C32BA5A05AD760FC8FD1&profile=pass
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",13EME RUE HD
 http://45.90.106.7:9790/play/NrQv529O6@U7J
 #EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ACTION HD
