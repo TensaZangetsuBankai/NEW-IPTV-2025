@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1
 http://145.239.5.177:80/301a/index.m3u8
-#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1 +1
-http://178.33.239.54:8080/307/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1 SERIE
 http://37.187.138.41:80/TF-un-serie/index.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TFX
