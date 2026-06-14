@@ -1,225 +1,117 @@
-﻿#EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr"tvg-logo="https://picserve.netplus.ch/channels/tf1.png"group-title="📺TNT",TF1
-http://45.90.106.7:8781/play/WkY8429P5@U5M/index.m3u8
-#EXTINF:-1 tvg-id="TF1SeriesFilms.fr"tvg-logo="https://picserve.netplus.ch/channels/hd1.png"group-title="📺TNT",TF1 Séries Films
-http://45.90.106.7:8781/play/GcA7491K6@U5Q/index.m3u8
-#EXTINF:-1 tvg-id="M6.fr"tvg-logo="https://picserve.netplus.ch/channels/m6.png"group-title="📺TNT",M6
-http://45.90.106.7:9790/play/EcW4192K8@T6V
-#EXTINF:-1 group-title="📺ASTRA",E! ENTERTAINMENT HD
-http://45.90.106.7:8781/play/DQm842P2@E5J/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE 2 HD @50fps
-http://45.90.106.7:8781/play/TdWm527L9@Y5F/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE 24 HD
-http://45.90.106.7:8781/play/IySh5176K8@Y2N/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE 3 HD @50fps
-http://45.90.106.7:8781/play/NyEQ218L6@U5B/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE 4 HD @50fps
-http://45.90.106.7:8781/play/GrQm517L3@b8Z/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE 5 HD @50fps
-http://45.90.106.7:8781/play/GzQ5176b2@T6B/index.m3u8
-#EXTINF:-1 group-title="📺ASTRA",FRANCE INFO HD @50fps
-http://45.90.106.7:8781/play/U5H327G6@R5L/index.m3u8
-#EXTINF:-1 tvg-id="W9.fr"tvg-logo="https://picserve.netplus.ch/channels/w9.png"group-title="📺TNT",W9
-http://151.80.18.177:86/W9_HD/index.m3u8
-#EXTINF:-1 tvg-id="TMC.fr"tvg-logo="https://picserve.netplus.ch/channels/tmc.png"group-title="📺TNT",TMC
-http://45.90.106.7:8781/play/LrQ5284K6@G5v/index.m3u8
-#EXTINF:-1 tvg-id="NT1.fr"tvg-logo="https://picserve.netplus.ch/channels/nt1.png"group-title="📺TNT",TFX
-https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",13EME RUE HD
-http://45.90.106.7:9790/play/NrQv529O6@U7J
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ACTION HD
-http://45.90.106.7:9790/play/NzW537i9@U6MT
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RTL9 HD @50fps
-http://45.90.106.7:8781/play/WPs28G2@Zn2U/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AFTERFOOT TV HD
-http://45.90.106.7:9790/play/GbZ419I6@Hn3F
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ANGERS TV HD
-http://45.90.106.7:9790/play/QMoR851F8@S7A
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ANIMAUX HD
-http://45.90.106.7:9790/play/UbS5198F1@R3V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AS TV HD
-http://45.90.106.7:9790/play/BEZ749K3V@F4S
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ASTRO CENTER TV
-http://45.90.106.7:9790/play/JrQv1079F5@E6Q
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",AUTOPLUS TV HD
-http://45.90.106.7:9790/play/CzG2837U9@T1V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BET HD
-http://45.90.106.7:9790/play/KdW8297O2@Y6B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BIP TV HD
-http://45.90.106.7:9790/play/WPh2076D6@E8B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",BOOMERANG HD
-http://45.90.106.7:9790/play/BzW5096K3@L7V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CANAL 32 HD
-http://45.90.106.7:9790/play/FwA1828J7@S5H
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CANAL J HD
-http://45.90.106.7:9790/play/BfQm2084L6@U4N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CARTOON NETWORK HD
-http://45.90.106.7:9790/play/VrQl2079K0@Y5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CARTOONITO HD
-http://45.90.106.7:9790/play/TqK5084L3@J4B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CHERIE 25 HD
-http://45.90.106.7:9790/play/SkR4180N7@T6B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CHEVAL TV HD
-http://45.90.106.7:9790/play/SPt9328T5@R4N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CLUBBING TV HD 50@fps
-http://45.90.106.7:9790/play/HtZK527P9@S7J
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",CRIME DISTRICT HD
-http://45.90.106.7:9790/play/GsB843P9@Z7N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DISCOVERY HD @50fps
-http://45.90.106.7:8781/play/TdBm8140P6@E4N/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DISCOVERY INVESTIGATION HD 50@fps
-http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",DREAMWORKS HD
-http://45.90.106.7:9790/play/GrQm527N6@S7B3P
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",EUROCHANNEL HD
-http://45.90.106.7:9790/play/FsC4281J7@Z8B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",FESTIVAL UHD
-http://45.90.106.7:9790/play/XrZV853U7@E7B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",FRANCE 3 NOA HD
-http://45.90.106.7:9790/play/SLT749U2@E8R
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GAME ONE HD
-http://45.90.106.7:9790/play/ZvQm5022U6@E5Q
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",J-ONE HD @50fps
-http://45.90.106.7:8781/play/PeQp951n3@T5B/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MANGAS HD
-http://45.90.106.7:9790/play/TbZ4097U5@F5L
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GONG HD
-http://45.90.106.7:9790/play/EvS759O6@U5J
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",GULLI HD 50@fps
-http://45.90.106.7:9790/play/CYeA419K6@T8B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",LCI HD
-http://45.90.106.7:9790/play/GqX2079K3@E7J
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",LUXE TV HD
-http://45.90.106.7:9790/play/GCn7519K3@S7H
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",M6 HD 50@fps
-http://45.90.106.7:9790/play/EcW4192K8@T6V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",M6 MUSIC HD
-http://45.90.106.7:9790/play/GqLu6281K5@T2N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MAISON & TRAVAUX TV HD
-http://45.90.106.7:9790/play/KtS0873G6@Z8S
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MANDARIN TV HD
-http://45.90.106.7:9790/play/SOrp2073B@T8Z
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MARMITON TV HD
-http://45.90.106.7:9790/play/VeAC527L2@Q4N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MAURIENNE TV HD
-http://45.90.106.7:9790/play/QhT5970V6@B5X
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MTV FRANCE HD 50@fps
-http://45.90.106.7:9790/play/SUn4207H6@T5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MTV HITS HD
-http://45.90.106.7:9790/play/QmU5097K3@B4X
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN NATURE HD
-http://45.90.106.7:9790/play/XRb5768G2@F4Q
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN TV HD
-http://45.90.106.7:9790/play/CeA4809H7@T5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON 4 TEEN HD
-http://45.90.106.7:9790/play/CzQL529P7@E4V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON HD
-http://45.90.106.7:9790/play/FwZ4209O4@U4V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON JUNIOR HD
-http://45.90.106.7:9790/play/TcQd428P5@Y7M
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NOVO 19 HD
-http://45.90.106.7:9790/play/STQ1972J3@Q2K
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARIS PREMIERE HD 50@fps
-http://45.90.106.7:9790/play/GnRQ108h6@Z2R
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RACING GALOP HD
-http://45.90.106.7:9790/play/XZJ5294S2@T7K
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RFM TV HD
-http://45.90.106.7:9790/play/DQn207O6@T2B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SQOOL TV HD
-http://45.90.106.7:9790/play/ANT7491D6@S4C
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SYFY HD
-http://45.90.106.7:9790/play/BsXA5294N2@R1E
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TAHITI NUI HD
-http://45.90.106.7:9790/play/FTQ7192P5@R4N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TEVA HD 50@fps
-http://45.90.106.7:9790/play/YqXm207P5@V2C
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TIJI HD
-http://45.90.106.7:9790/play/EcQ2079K2@T2X
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TL7 SAINT-ÉTIENNE HD
-http://45.90.106.7:9790/play/XqR7519i8@E4G
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TLC HD
-http://45.90.106.7:9790/play/NUeS527J7@E8U
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TOP SANTÉ TV HD
-http://45.90.106.7:9790/play/DvZ426O9@A1B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TOUTE L'HISTOIRE HD
-http://45.90.106.7:9790/play/ZvXU507K6@E4B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TRACE CARRIBEAN HD
-http://45.90.106.7:9790/play/CNT792L3i0@T1F
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TRACE URBAN HD
-http://45.90.106.7:9790/play/JtS1098K5@T4V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TREK HD
-http://45.90.106.7:9790/play/WRG4190J5@F2N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV BREIZH HD 50@fps
-http://45.90.106.7:9790/play/STdW1086L2@E1N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV PITCHOUN HD
-http://45.90.106.7:9790/play/VUTs207J6@Q8J
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV TOURS - VAL DE LOIRE HD
-http://45.90.106.7:9790/play/CUZ419H2T@V5H
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TV7 BORDEAUX HD
-http://45.90.106.7:9790/play/CnYr420P9@T8B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVMONACO HD
-http://45.90.106.7:9790/play/UtQj7430P9@T5C
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVPI HD
-http://45.90.106.7:9790/play/WnTZ207O6@Q2N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TVR HD
-http://45.90.106.7:9790/play/FbZ5249M8@A5V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉBÉO HD
-http://45.90.106.7:9790/play/BtSC428Y0@Z5S
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉBÉSUD HD
-http://45.90.106.7:9790/play/JrQM834K2@C5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉLÉ GRENOBLE HD
-http://45.90.106.7:9790/play/JTZ4208P6@R5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",TÉLÉ SUD HD
-http://45.90.106.7:9790/play/FKb4281J6@E8S
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",VIA MATÉLÉ HD
-http://45.90.106.7:9790/play/DUrZ527K6@Q2B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",WÉO HD
-http://45.90.106.7:9790/play/CZB7519K6@R4N
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",WÉO PICARDIE HD
-http://45.90.106.7:9790/play/QLu5271J6@G5B
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ZOUK TV HD
-http://45.90.106.7:9790/play/FzW7519i2@T4V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",i24 NEWS HD
-http://45.90.106.7:9790/play/ExQ207N3b@Y2V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",ÉMOTION HD
-http://45.90.106.7:9790/play/NtR4273L5@R8V
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MCM HD
-http://45.90.106.7:8781/play/UeQ517m3@H8G/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MCM TOP
-http://45.90.106.7:8781/play/UeQ517K6@G6V/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MELODY HD
-http://45.90.106.7:8781/play/TqPn4197H3@R5X/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MEZZO LIVE HD
-http://45.90.106.7:8781/play/UtS5173K9@Y8K/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MUSEUM HD 50fps
-http://45.90.106.7:8781/play/JuY3@Hq0P7L/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",MYZEN TV HD
-http://45.90.106.7:8781/play/QmU843O9@Y5G/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NATIONAL GEO HD
-http://45.90.106.7:8781/play/ZvQp8048J6@R5C/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NATIONAL GEO WILD HD
-http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NAUTICAL CHANNEL HD
-http://45.90.106.7:8781/play/BQl419P5@Yz5M/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NICKELODEON+1 HD @50fps
-http://45.90.106.7:8781/play/XqY842iI9@H6kM/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",NRJ HITS HD @50fps
-http://45.90.106.7:8781/play/NrQm5179J2@U5B/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARAMOUNT CHANNEL HD 50fps
-http://45.90.106.7:8781/play/PtBcQ7430K2@TnQ41V/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PARAMOUNT DÉCALÉ HD
-http://45.90.106.7:8781/play/TdQK517M3@v8U/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PIWI+ HD
-http://45.90.106.7:8781/play/Bzx5186H4@d9T/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",POLAR+ HD 50@fps
-http://45.90.106.7:8781/play/WkTS839U@T1Z/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",PUISSANCE TÉLÉVISION HD
-http://45.90.106.7:8781/play/RqNT742019U3@GNt45V/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RMC DECOUVERTES HD @50fps
-http://45.90.106.7:8781/play/JpZ4518H6@S5N/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",RMC STORY HD @50fps
-http://45.90.106.7:8781/play/ItQm517K6@F5B/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",SEASON HD
-http://45.90.106.7:8781/play/VpT8254i3@H5S/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo=""group-title="📺ASTRA",T18 HD
-http://45.90.106.7:8781/play/HU6294K3@E5V/index.m3u8
+#EXTM3U url-tvg="https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1
+http://145.239.5.177:80/301a/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1 +1
+http://178.33.239.54:8080/307/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TF1 SERIE
+http://37.187.138.41:80/TF-un-serie/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TFX
+http://145.239.5.177:80/315/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",FRANCE 2 HD
+http://41.205.70.146/FRANCE2/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",FRANCE 3 HD
+http://41.205.70.146/FRANCE3/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",ARTE HD
+http://41.205.70.146/ARTE/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",FRANCE 5
+http://145.239.5.177:80/305/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",M6
+http://145.239.5.177:80/309a/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",W9
+http://145.239.5.177:80/331a/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",RTL9
+http://145.239.5.177:80/308/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",TEVA
+http://145.239.5.177:80/356/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",SERIE CLUB
+http://145.239.5.177:80/355/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",E! Entertainment
+http://145.239.5.177:80/111/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",6TER HD
+http://145.239.5.177:80/314/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",PARIS PREMIERE
+http://145.239.5.177:80/312a/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL+ HD
+http://145.239.5.177:80/322/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL SERIES HD
+http://145.239.5.177:80/319/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL+ ELLES C
+http://37.187.138.41:80/C-Ellesc/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL+ FAMILY HD
+http://178.33.239.54:8080/325/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL+ GRAND ECRAN
+http://145.239.5.177:80/341/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CINE PREMIER
+http://145.239.5.177:80/349/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CINE EMOTION HD
+http://145.239.5.177:80/337/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CINE+ FRISSON
+http://145.239.5.177:80/353a/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CINE FAMIZ
+http://145.239.5.177:80/321/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CINE POLAR
+http://178.33.239.54:8080/317/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",DISCOVERY
+http://41.205.93.154/DISCOVERY/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",DISCOVERY-ID
+http://41.205.93.154/DISCOVERY-ID/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",BREIZH TV
+http://145.239.5.177:80/318/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",AB1
+http://145.239.5.177:80/332/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",AB3
+http://41.205.93.154/AB3/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",ARTE
+http://145.239.5.177:80/300/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",C STAR
+http://145.239.5.177:80/361/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",ACTION
+http://41.205.93.154/ACTION/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",C8
+http://41.205.93.154/C8/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",SYFY
+http://41.223.30.230/SYFY/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",13eme Rue
+http://178.33.239.54:8080/316/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",TMC
+http://84.17.50.102:80/tmc/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CHERIE 25
+http://145.239.5.177:80/333/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",LA UNE
+http://145.239.5.177:80/329/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",LA TROIS
+http://145.239.5.177:80/330/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",BET FR
+http://145.239.5.177:80/359/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",FRANCE INFO
+http://145.239.5.177:80/306/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",France 24
+http://178.33.239.54:8080/310/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",BFM TV
+http://178.33.239.54:8080/311/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",MANGA
+http://41.205.93.154/MANGA/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰MIX",TéléToON + HD
+http://145.239.5.177/318/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",GULLI
+http://178.33.239.54:8080/707/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰MIX",Animaux HD
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",MTV France HD
+http://41.205.70.146/MTVFRANCE/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",M6 MUSIC
+http://145.239.5.177:80/320/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 26.04",MCM
+http://41.205.93.154/MCM/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰Liste 03.05",mtv
+http://84.17.50.102:80/mtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",KTO
+http://145.239.5.177:80/354/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",LCI
+http://145.239.5.177:80/368/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",ROUGE TV
+http://145.239.5.177:80/371/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",CANAL PLAY 1
+http://178.33.239.54:8080/381/index.m3u8
+#EXTINF:-1  tvg-id="" tvg-logo="" group-title="🛰145.239.5.177:80",AMAZON PRIME 3
+http://145.239.5.177:80/518/index.m3u8
